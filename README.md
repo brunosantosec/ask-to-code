@@ -1,22 +1,25 @@
-# Ask To Code: Extraindo Conhecimento de Repositórios Git com Inteligência Artificial
+# Ask To Code
+Extraindo Conhecimento direto do código com Inteligência Artificial
 
 ## Objetivo
 
-O Ask To Code é um projeto inovador que utiliza inteligência artificial GEMINI para extrair informações importantes de repositórios Git através de uma interface de chat amigável.
+O Ask To Code é um projeto inovador que utiliza inteligência artificial GEMINI para extrair informações importantes de repositórios através de uma interface de chat amigável.
 
 ## Público-alvo
 
 O Ask To Code foi desenvolvido para atender às necessidades de:
 
-- **Desenvolvedores:** O Ask To Code permite que os desenvolvedores obtenham rapidamente insights valiosos sobre seus repositórios Git, sem a necessidade de escrever código complexo. Isso pode economizar tempo e esforço, permitindo que os desenvolvedores se concentrem em tarefas mais importantes.
+- **Desenvolvedores:** O Ask To Code permite que os desenvolvedores obtenham rapidamente insights valiosos sobre seus repositórios. Isso pode economizar tempo e esforço, permitindo que os desenvolvedores se concentrem em tarefas mais importantes.
   
-- **Pessoas não técnicas:** O Ask To Code torna a análise de código acessível a pessoas sem experiência em programação. Isso pode ser útil para gerentes de projeto, analistas de negócios e outras partes interessadas que precisam entender o funcionamento de um repositório Git.
+- **Pessoas não técnicas:** O Ask To Code torna a análise de código acessível a pessoas sem experiência em programação. Isso pode ser útil para gerentes de projeto, analistas de negócios e outras partes interessadas que precisam entender o funcionamento de sistemas.
 
 ## Funcionalidades
 
 O Ask To Code oferece uma variedade de funcionalidades, incluindo:
 
-- **Extração de regras de negócios:** O Ask To Code pode identificar e extrair automaticamente regras de negócios do código fonte. Isso pode ser útil para documentar o comportamento do código e garantir que ele esteja em conformidade com os requisitos de negócios.
+- **Suprir carência de documentação na maioria dos projetos.
+
+- **Extração de regras de negócios:** O Ask To Code pode identificar e extrair automaticamente regras de negócios do código fonte. 
   
 - **Geração de diagramas:** O Ask To Code pode gerar automaticamente diagramas a partir do código fonte. Isso pode ajudar a visualizar o fluxo de dados e a estrutura do código, facilitando sua compreensão.
   
