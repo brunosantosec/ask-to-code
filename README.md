@@ -24,7 +24,7 @@ O Ask To Code oferece uma variedade de funcionalidades, incluindo:
 
 ## Tecnologia
 
-O Ask To Code é alimentado pela inteligência artificial GEMINI, que é um modelo de linguagem grande treinado em um enorme conjunto de dados de código fonte e documentação. O GEMINI é capaz de entender a linguagem natural e o código fonte, o que permite que ele extraia informações de repositórios Git de forma eficaz.
+O Ask To Code é alimentado pela inteligência artificial GEMINI.
 
 ## Benefícios
 
@@ -36,9 +36,4 @@ O Ask To Code oferece vários benefícios, incluindo:
   
 - **Maior compreensão do código:** O Ask To Code pode ajudar os usuários a entender melhor o código fonte, fornecendo insights valiosos sobre regras de negócios, fluxos de dados e estrutura do código.
 
-## Comece a usar
-
-O Ask To Code é um projeto de código aberto e está disponível gratuitamente no GitHub. Para começar, basta clonar o repositório e seguir as instruções de instalação.
-
-Acreditamos que o Ask To Code tem o potencial de revolucionar a maneira como os desenvolvedores e as pessoas não técnicas interagem com o código fonte. O Ask To Code torna a análise de código mais acessível e eficiente, o que pode levar a um melhor software e a uma melhor comunicação.
 
