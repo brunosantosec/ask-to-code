@@ -25,9 +25,7 @@ O Ask To Code oferece uma variedade de funcionalidades, incluindo:
   
 - **Resposta a perguntas em linguagem natural:** O Ask To Code pode responder a perguntas sobre o código fonte em linguagem natural. Isso permite que os usuários obtenham informações sobre o código sem a necessidade de escrever consultas complexas.
 
-## Tecnologia
-
-O Ask To Code é alimentado pela inteligência artificial GEMINI.
+![Diagrama](diagram.jpeg)
 
 ## Benefícios
 
